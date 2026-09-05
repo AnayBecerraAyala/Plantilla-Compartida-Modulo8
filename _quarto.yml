@@ -23,6 +23,6 @@ website:
 
 format:
   html:
-    theme: minty
+    theme: quartz
     toc: true
     lang: es
